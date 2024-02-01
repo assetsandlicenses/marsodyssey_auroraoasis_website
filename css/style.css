@@ -2113,9 +2113,9 @@ form label.error{
 
 .plans-section .text-col h4{
   position: relative;
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-family: 'Gotham_Bold', sans-serif;
-  color: rgba(255, 255, 255, 1);
+  color: #ffffff;
   line-height: 1.25em;
   margin: 0 0 20px;
 }
@@ -2124,7 +2124,7 @@ form label.error{
   position: relative;
   font-size: 15px;
   font-family: 'Gotham_Light', sans-serif;
-  color: rgba(255, 255, 255, 0.40);
+  color: #ffffff;
   line-height: 1.6em;
 }
 
@@ -3683,7 +3683,7 @@ form label.error{
 
 .project-details .text-col .text{
   position: relative;
-  margin-right: -100px;
+  margin-right: 10px;
   font-size: 24px;
   font-family: 'Telegraf_UltraLight', sans-serif;
   line-height: 1.45em;
